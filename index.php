@@ -1,3 +1,7 @@
+<html>
+  <head></head>
+  <body>
+<div>
 <?php
   include "conf/info.php";
   $title="Welcome to";
@@ -17,3 +21,6 @@
 <?php
   include_once "footer.php";
 ?>
+</div>
+    </hody>
+  </html>
